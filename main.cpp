@@ -3,7 +3,7 @@
 #include <cassert>
 #include <cstdio>
 
-const char kWindowTitle[] = "LC1B_12_シミズグチ_ハル";
+const char kWindowTitle[] = "LE2C_14_シミズグチ_ハル";
 const int kRowHeight = 20;
 
 // ===== 構造体 =====
